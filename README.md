@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=23&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=%F0%9F%91%8BBem-vindo(a)!+Eu+sou+o+Vinicius+Assis...)](https://git.io/typing-svg)
 
-💻 Atualmente estou estudando par ser Full Stack Developer.<br>
+💻 Atualmente estou estudando para ser Full Stack Developer.<br>
 :sparkles: Eu recomendo fortemente que você verifique meus repositórios Bootcamp para acompanhar minha jornada de `No Stack` a `Full Stack Developer`.<br />
 <br />
 <br />
