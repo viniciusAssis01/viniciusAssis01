@@ -32,7 +32,7 @@
 <br />
 <hr />
 
-![snake gif](https://github.com/bitoller/bitoller/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/viniciusassis01/viniciusassis01/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <a href="https://github.com/viniciusAssis01">
