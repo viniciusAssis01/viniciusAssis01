@@ -27,7 +27,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&pause=1000&width=435&lines=+Conecte-se+comigo)](https://git.io/typing-svg)
 <p align="left">
-<a href="https://www.linkedin.com/in/viniciusassis01/" target=_blank><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/viniciusassis01/" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="40" width="40" /></a>
 </p>
 <br />
 <hr />
